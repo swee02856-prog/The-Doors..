@@ -1,0 +1,20 @@
+import pygame
+pygame.init()
+
+window = pygame.display.set_mode((800, 600))
+window.fill((0, 0, 0))
+
+poolrooms = pygame.image.load("PoolRooms.png").convert_alpha()
+poolrooms = pygame.transform.scale(poolrooms, (800, 600))
+backrooms = pygame.image.load("backroomsbackground.png").convert_alpha()
+backrooms = pygame.transform.scale(backrooms, (800, 600))
+Neighborhood = pygame.image.load("Neighborhood.png").convert_alpha()
+Neighborhood = pygame.transform.scale(Neighborhood , (1200, 600))
+piperooms = pygame.image.load("Piperoom.png").convert_alpha()
+piperooms = pygame.transform.scale(piperooms, (800, 600))
+Windowfloors = pygame.image.load("Windowfloors.png").convert_alpha()
+Windowfloors = pygame.transform.scale(Windowfloors, (800, 600))
+fieldfloor = pygame.image.load("field.png").convert_alpha()
+fieldfloor = pygame.transform.scale(fieldfloor, (800, 600))
+Apartments = pygame.image.load("Apartments.png").convert_alpha()
+Apartments = pygame.transform.scale(Apartments, (800, 600))
