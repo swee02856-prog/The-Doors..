@@ -78,11 +78,14 @@ MusicPlaying = False
 IsRedDoorHovering = False
 IsBlueDoorHovering = False
 
-while True:
+
+Running = True
+while Running == True:
     for event in pygame.event.get():
         MousePosition = pygame.mouse.get_pos()
         if event.type == pygame.QUIT:
-            quit(0)
+            Running = False
+            break
 
         if RoomSys.CurrentArea == ["ChoosingRoom"]:
             if not MusicPlaying:
