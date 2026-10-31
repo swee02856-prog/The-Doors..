@@ -4,6 +4,12 @@ HOW TO PLAY!!
 Download the EXE from releases and simply run it to play!
 OR you can download from the source and open the EXE in the "dist" folder!
 
+DIRECTIONS ON GAMEPLAY!!!
+You can choose between 2 doors to go into, both doors will randomly take you to a backrooms level.
+You will explore the level until you find your fate.
+You can click through Dialogue if you do not want to wait for the Dialogue to end.
+And that is all.. besides the random sort of scary jumpscares
+
 This project was made for TERRA ysws Hackclub
 
 BE CAREFUL!!!
