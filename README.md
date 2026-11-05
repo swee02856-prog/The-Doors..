@@ -15,6 +15,7 @@ You can click through Dialogue if you do not want to wait for the Dialogue to en
 And that is all.. besides the random sort of scary jumpscares
 
 **HOW TO WIN!!**
+
 Click on either door and get entered into a level
 
 on that level listen to the dialogue and click through it
