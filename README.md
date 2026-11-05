@@ -4,11 +4,19 @@ HOW TO PLAY!!
 Download the EXE from releases and simply run it to play!
 OR you can download from the source and open the EXE in the "dist" folder!
 
-DIRECTIONS ON GAMEPLAY!!!
+**DIRECTIONS ON GAMEPLAY!!!**
 You can choose between 2 doors to go into, both doors will randomly take you to a backrooms level.
 You will explore the level until you find your fate.
 You can click through Dialogue if you do not want to wait for the Dialogue to end.
 And that is all.. besides the random sort of scary jumpscares
+
+**HOW TO WIN!!**
+Click on either door and get entered into a level
+on that level listen to the dialogue and click through it
+To win you must successfully enter a safe or easy to survive level 
+And do not get jumpscared, jumpscares trigger if the user clicks through Dialogue too fast
+OR if the user randomly clicks..
+# this win system is stupid I know but this is just a demo storyline!
 
 This project was made for TERRA ysws Hackclub
 
